@@ -1,0 +1,103 @@
+{
+  "assets": [
+    {
+      "name": "Cannon",
+      "symbol": "CAN",
+      "description": "A cannon for defending yer ship!",
+      "uri": "https://gateway.irys.xyz/56WvW4pxYkssPcWZsR75BvFFxpcUG9yHctQiAH6iAzaP",
+      "decimals": 9,
+      "quantity": 410,
+      "address": "6PdJLDtYkzH4UavoVbGu9c3Jgxq2nto5pxQjd49HGrrj"
+    },
+    {
+      "name": "Cannon Ball",
+      "symbol": "CANB",
+      "description": "Cannon balls for yer cannons!",
+      "uri": "https://gateway.irys.xyz/2nMNMW1iTQZL42rQHg2kkbK87B69XQfZQqWTfN4ZUCGg",
+      "decimals": 7,
+      "quantity": 947,
+      "address": "CTboVDxK8nxaJpYqTNmjyNi1dcHpqBpJDAvQ5JqU6UdD"
+    },
+    {
+      "name": "Compass",
+      "symbol": "COMP",
+      "description": "A compass to navigate the seven seas!",
+      "uri": "https://gateway.irys.xyz/9pszUXkqTe4D96cymcUpXmQJHCrhB11i12kTRMYYbPKg",
+      "decimals": 6,
+      "quantity": 336,
+      "address": "8faCSx8sv4FxgvWpC3CTap27HPTK3136414XBVW5pBg3"
+    },
+    {
+      "name": "Fishing Net",
+      "symbol": "FISH",
+      "description": "A fishing net for catching meals for the crew!",
+      "uri": "https://gateway.irys.xyz/88KRrCGJESSxMNFJjabEQypofHmxoSFFYrG8SXKgF9E3",
+      "decimals": 2,
+      "quantity": 861,
+      "address": "2vAHBEYTGQSYHe3hDc8hT8Sw77DKdrnKnCtaZpYNxYee"
+    },
+    {
+      "name": "Gold",
+      "symbol": "GOLD",
+      "description": "Ahh the finest gold in all of these waters!",
+      "uri": "https://gateway.irys.xyz/7RZ5ctpnqBSRHzRbaFYyxwJcbJgX1TmGgcBuPbWUvzb4",
+      "decimals": 5,
+      "quantity": 134,
+      "address": "GhiBWhX6ZyGhTTciRfXsGGFPC9FzaSMus12wAwW5fSUz"
+    },
+    {
+      "name": "Grappling Hook",
+      "symbol": "GRAP",
+      "description": "A grappling hook for boarding other ships!",
+      "uri": "https://gateway.irys.xyz/8v2jnYmYQZkzwXWrPWrnocCF2zQkAzMmEDfovYLmh7yo",
+      "decimals": 1,
+      "quantity": 773,
+      "address": "Dd4HZCekyP3efGo4aWLYdEiVnw71hSuuKegwNvWkKgWB"
+    },
+    {
+      "name": "Gunpowder",
+      "symbol": "GUNP",
+      "description": "Gunpowder for ye muskets!",
+      "uri": "https://gateway.irys.xyz/FRtCyUFUcM9F4bUKpd9825UAgtF158wsgXRpfump2yYG",
+      "decimals": 8,
+      "quantity": 205,
+      "address": "2tSYa1pPJZNVPz7392QfaijhPFcHpG8HaSuKGavoEtDw"
+    },
+    {
+      "name": "Musket",
+      "symbol": "MUSK",
+      "description": "A musket for firing on enemies!",
+      "uri": "https://gateway.irys.xyz/AX9JWg9u7QXkp6886U8wRZfJnXp7sNXTuQL38zsDLMEt",
+      "decimals": 4,
+      "quantity": 557,
+      "address": "EzeUTfA35BZoC7YmWqTcYXcrLTNEMktGzFa9pCdCwohi"
+    },
+    {
+      "name": "Rum",
+      "symbol": "RUM",
+      "description": "Rum, more rum!",
+      "uri": "https://gateway.irys.xyz/3yCKxYDSpCCY1MYF75tZHpFdZf4AMU71NZE7ZGoqdeig",
+      "decimals": 10,
+      "quantity": 928,
+      "address": "GQMSGHtvgb48oqbXdvNXiHMFbQ1sYBip2BiRupda6pGZ"
+    },
+    {
+      "name": "Telescope",
+      "symbol": "TELE",
+      "description": "A telescope for spotting booty amongst the seas!",
+      "uri": "https://gateway.irys.xyz/q9qdEzR3bN51UorVV4jx53si89xSjFm9m1SyToB3pDg",
+      "decimals": 3,
+      "quantity": 611,
+      "address": "GzHxnrg5PYpyZ7JKgb24iWicLwiozBvUk2dmaXuF2sE1"
+    },
+    {
+      "name": "Treasure Map",
+      "symbol": "TMAP",
+      "description": "A map to help ye find long lost treasures!",
+      "uri": "https://gateway.irys.xyz/Db8bubEJN9bxPHQyUp6bdTGLBr8AaK2mh7zAGjemx6Np",
+      "decimals": 2,
+      "quantity": 79,
+      "address": "J9LtRvr28KBbT1ptMjL5LYb7HzHvD6D2EDUjB6e2jHDy"
+    }
+  ]
+}

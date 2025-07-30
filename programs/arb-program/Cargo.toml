@@ -1,0 +1,35 @@
+[package]
+name = "arb-program"
+version = "0.1.0"
+description = "Created with Anchor"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "arb_program"
+
+[features]
+default = []
+cpi = ["no-entrypoint"]
+no-entrypoint = []
+no-idl = []
+no-log-ix-name = []
+idl-build = ["anchor-lang/idl-build"]
+
+
+[dependencies]
+borsh = { version = "1.5.7", features = ["derive"] }
+
+anchor-lang = "0.31.1"
+solana-program = "2.3.0"
+thiserror = "2.0.12"
+num-derive = "0.4.2"
+num-traits = "0.2.19"
+bytemuck = "1.23.1"
+spl-token = { version = "8.0.0", features = ["no-entrypoint"] }
+spl-token-2022 = { version = "9.0.0", features = ["no-entrypoint"] }
+spl-associated-token-account = { version = "7.0.0", features = [
+    "no-entrypoint",
+] }
+getrandom = "0.3.3"
+spl-pod = "0.5.1"
